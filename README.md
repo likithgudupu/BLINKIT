@@ -49,7 +49,7 @@ The dashboard provides the following analytics:
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview]<img width="1328" height="739" alt="Screenshot 2026-02-12 204631" src="https://github.com/user-attachments/assets/02ca0e62-e32d-4244-be21-ffe1de0db12a" />
-()
+
 
 ---
 
